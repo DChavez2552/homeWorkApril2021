@@ -3,7 +3,7 @@
 ## I am enrolled in the SavvyCoder bottcamp
 ### It is most enjoyable so far. My goals are:
 
-- Gain more experience using git and github
+- Gain more experience using Javascript, HTML, and CSS
 - Understand more terminal inputs
 - Get the skills and knowledge I need to start a career in IT
 
