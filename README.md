@@ -1,6 +1,6 @@
 # My name is Dominick
 
-## I am enrolled in the SavvyCoder bottcamp
+## I am enrolled in the SavvyCoder bootcamp
 ### It is most enjoyable so far. My goals are:
 
 - Gain more experience using Javascript, HTML, and CSS
