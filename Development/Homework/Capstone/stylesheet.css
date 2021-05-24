@@ -25,6 +25,8 @@ body {
     background: #0466C8;
     color:aliceblue;
     margin-bottom: 20px;
+    border-radius: 5px;
+
 
 }
 
@@ -38,3 +40,4 @@ body {
     display:inline-block;
     color: #0466C8;
 }
+

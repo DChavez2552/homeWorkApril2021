@@ -1,4 +1,4 @@
- 
+
 const user = [
     {
       "id": 1,
@@ -241,7 +241,7 @@ let allPhone = user.map((use) => use.phone);
 
 let EWeb = user.map((web) => 
   [web.email, web.website]
-)
+);
 //console.log(EWeb);
 
 let toDo = [
