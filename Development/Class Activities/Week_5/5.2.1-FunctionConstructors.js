@@ -10,7 +10,7 @@ let animal = {
 let fun = {
     chomp: 'stick',
     action() {
-        return `${animal.name} likes to ${animal.hobbies[0]}and break ${this.chomp}s.`
+        return `${animal.name} likes to ${animal.hobbies[0]} and break ${this.chomp}s.`
     }
 }
 
